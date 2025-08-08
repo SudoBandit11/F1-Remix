@@ -8,3 +8,9 @@ How to Run HTTP Server on Localhost:
 
   # Python 2 (older systems)
   python -m SimpleHTTPServer 8000
+
+
+# Opening the game on web browser
+  1. Open your web browser
+  2. Go to: http://localhost:8000
+  3. Click on index.html
